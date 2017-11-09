@@ -1,4 +1,3 @@
-
 window.onload = function() {
     var board = document.querySelector('.board-js');
 
@@ -17,6 +16,12 @@ function addX(event){
     }
 }
 
+// var contestanX = '';
+// var contestanX = '';
+
+//
+// contestX += event.target.matches('td').value;
+// contestX += event.target.matches('td').value;
 
 //agregando reset
 

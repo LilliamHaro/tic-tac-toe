@@ -14,10 +14,6 @@ body {
     font-size: 30px;
 }
 
-.board td:hover{
-   background-color: gray;
-}
-
 .restart-button {
   width: 100px;
   margin: auto;
